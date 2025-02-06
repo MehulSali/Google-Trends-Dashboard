@@ -1,7 +1,3 @@
-# Here’s a **README** file for your **Google Trends Data Analysis Dashboard** project:  
-
----
-
 # **Google Trends Data Analysis Dashboard**  
 ### **Overview**  
 This project analyzes Google Trends data using Python and Power BI to visualize search behavior over time. Data was fetched using the Google Trends API, processed in Python (with libraries like pandas and matplotlib), and visualized in an interactive Power BI dashboard.  
